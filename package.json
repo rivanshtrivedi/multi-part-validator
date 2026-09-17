@@ -1,0 +1,7 @@
+{
+  "name": "multi-part-validator",
+  "version": "1.0.0",
+  "main": "src/validator.js",
+  "scripts": { "test": "jest" },
+  "devDependencies": { "jest": "^29.7.0" }
+}
